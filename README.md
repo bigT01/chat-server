@@ -1,2 +1,2 @@
-To run server of the chat place print in terminal
-# yarn start
+# To run server of the chat print in terminal
+```yarn start```
